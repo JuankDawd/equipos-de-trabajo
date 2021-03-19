@@ -15,5 +15,5 @@ Por ejemplo, en la primera linea encontrarás el equipo conformado por `Jane Doe
 | Moisés De La Hoz | Brayan Useche |
 | Jose Rodriguez | Issa Dovale |
 | Jesús Lozano |  |
-| Juan Dawd |  |
+| Juan Dawd | Isaias Castañeda |
 
